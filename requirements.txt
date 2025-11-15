@@ -1,0 +1,13 @@
+# PDF 파싱
+pymupdf
+
+# PGvector 및 PostgreSQL 연결
+sqlalchemy
+pgvector
+psycopg2-binary
+
+# 텍스트 임베딩 모델
+sentence-transformers
+
+# 환경 변수 로드
+python-dotenv

@@ -1,0 +1,6 @@
+.venv/
+.env
+test/
+
+# data
+law-data/
